@@ -11,7 +11,7 @@ The usage of two ```while``` loops makes it impossible to give the desired outpu
 ### Rust
 ```rust
 fn main() {
-    let input_list = vec![/* Your list of integers here */];
+    let input_list = vec![/*Array goes here*/];
     let result = typewriter_sort(&input_list);
     println!("{:?}", result);
 }```
