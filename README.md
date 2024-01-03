@@ -7,7 +7,11 @@ The usage of two ```while``` loops makes it impossible to give the desired outpu
 
 ## Usage
 ### Python
-
+```python
+import {typewriter_sort} from '@Preetham-ai/typewriter-sort'
+test_array = [7,5,338,46,21,2,9]
+print(typewriter_sort(test_array))
+```
 ### Rust
 ```rust
 fn main() {
