@@ -15,9 +15,11 @@ print(typewriter_sort(test_array))
 ```
 
 ### Rust
+
 ```rust
 fn main() {
     let test_array = vec![7,5,338,46,21,2,9];
     let result = typewriter_sort(&test_array);
     println!("{:?}", result);
-}```
+}
+```
